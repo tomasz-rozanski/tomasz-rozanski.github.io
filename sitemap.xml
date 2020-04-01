@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+        <url>
+            <loc>https://tomasz-rozanski.github.io/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://tomasz-rozanski.github.io/about/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://tomasz-rozanski.github.io/blog/</loc>
+            
+        </url>
+    
+        <url>
+            <loc>https://tomasz-rozanski.github.io/blog/first-post/</loc>
+            
+                <lastmod>2020-03-10</lastmod>
+            
+        </url>
+    
+        <url>
+            <loc>https://tomasz-rozanski.github.io/blog/second-post/</loc>
+            
+                <lastmod>2020-03-21</lastmod>
+            
+        </url>
+    
+</urlset>

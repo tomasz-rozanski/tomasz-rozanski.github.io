@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://tomasz-rozanski.github.io/sitemap.xml
